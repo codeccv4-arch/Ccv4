@@ -30,7 +30,7 @@ local AimConnection = nil
 --==================================================
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "ModernHub"
+ScreenGui.Name = "by.CCV4"
 ScreenGui.ResetOnSpawn = false
 ScreenGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
 
